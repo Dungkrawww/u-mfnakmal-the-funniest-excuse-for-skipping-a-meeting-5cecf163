@@ -3,6 +3,9 @@
 
 Writes a single funny excuse line to /output/entry.txt (the file the
 gate scorer checks) and prints the same line to stdout.
+
+The joke: the meeting is so pointless you've already sat through it
+three times in your head — and it always ends with 'let's circle back.'
 """
 
 import os
